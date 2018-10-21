@@ -53,7 +53,7 @@ function total() {
 
 function removeFromCart(item) {
   // write your code here
-  messge.pop()
+  message.pop()
 }
 
 function placeOrder(cardNumber) {
